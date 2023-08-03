@@ -1,0 +1,8 @@
+guest -> ulasan,Reviews
+pelanggan -> ulasan,Reviews, ajukan penjual, pesanan saya 
+            controller welcome line 50
+            button checkout
+admin -> ulasan pelanggan, Riwayat Pesanan
+        contoler admin.php line 418 
+Superadmin -> permintaan menjadi penjual
+ 
